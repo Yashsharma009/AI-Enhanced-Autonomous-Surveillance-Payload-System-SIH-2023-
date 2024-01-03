@@ -7,9 +7,7 @@ This repository contains the certificate awarded to Team_DAMSYS for securing the
 ## Certificate Details
 - **Event:** Internal Hackathon
 - <img width="391" alt="image" src="https://github.com/Yashsharma009/Smoke_fire/assets/116294789/c4711247-2918-40ec-bb97-54bec20c7b9c">
-
 - **Organizer:** Team_DAMSYS
-- 
 - **Competition:** SIH2023
 - **Position:** 1st Place
 
